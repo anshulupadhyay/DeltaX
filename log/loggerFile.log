@@ -1,0 +1,55 @@
+2018-07-05 11:19:58,708  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 51- Registration page loaded
+2018-07-05 11:19:58,711  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 85- RegistrationPageConfig.xml
+2018-07-05 11:19:58,756  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testPageRegistration 53- ********************************************		Starting Test		********************************************
+2018-07-05 11:20:05,285  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 41- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-05 11:20:05,285  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 50- Using Browser : Chrome
+2018-07-05 11:20:09,903  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 126- url to load : http://adjiva.com/qa-test/
+2018-07-05 11:20:11,334  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 51- Registration page loaded
+2018-07-05 11:20:11,335  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 85- RegistrationPageConfig.xml
+2018-07-05 11:20:11,342  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testPageRegistration 53- ********************************************		Starting Test		********************************************
+2018-07-05 11:20:17,623  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 41- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-05 11:20:17,624  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 50- Using Browser : Chrome
+2018-07-05 11:20:22,245  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 126- url to load : http://adjiva.com/qa-test/
+2018-07-05 11:20:29,255  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 51- Registration page loaded
+2018-07-05 11:20:29,255  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 85- RegistrationPageConfig.xml
+2018-07-05 11:20:29,261  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testPageRegistration 53- ********************************************		Starting Test		********************************************
+2018-07-05 11:20:35,475  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 41- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-05 11:20:35,482  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 50- Using Browser : Chrome
+2018-07-05 11:20:40,132  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 126- url to load : http://adjiva.com/qa-test/
+2018-07-05 11:20:41,506  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 51- Registration page loaded
+2018-07-05 11:20:41,507  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 85- RegistrationPageConfig.xml
+2018-07-05 11:20:41,510  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testRegistrationFormWithInvalidInput 85- ********************************************		Starting Test		********************************************
+2018-07-05 11:20:44,758  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 41- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-05 11:20:44,759  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 50- Using Browser : Chrome
+2018-07-05 11:20:49,428  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 126- url to load : http://adjiva.com/qa-test/
+2018-07-05 11:20:50,931  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 51- Registration page loaded
+2018-07-05 11:20:50,932  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 85- RegistrationPageConfig.xml
+2018-07-05 11:20:50,936  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testRegistrationFormWithInvalidInput 85- ********************************************		Starting Test		********************************************
+2018-07-05 11:20:54,484  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 41- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-05 11:20:54,485  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 50- Using Browser : Chrome
+2018-07-05 11:20:59,068  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 126- url to load : http://adjiva.com/qa-test/
+2018-07-05 11:21:00,399  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 51- Registration page loaded
+2018-07-05 11:21:00,400  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 85- RegistrationPageConfig.xml
+2018-07-05 11:21:00,404  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testRegistrationFormWithInvalidInput 85- ********************************************		Starting Test		********************************************
+2018-07-05 11:21:03,475  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 41- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-05 11:21:03,476  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 50- Using Browser : Chrome
+2018-07-05 11:21:08,058  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 126- url to load : http://adjiva.com/qa-test/
+2018-07-05 11:21:09,428  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 51- Registration page loaded
+2018-07-05 11:21:09,430  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 85- RegistrationPageConfig.xml
+2018-07-05 11:21:09,433  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testRegistrationFormWithInvalidInput 85- ********************************************		Starting Test		********************************************
+2018-07-05 11:21:13,260  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 41- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-05 11:21:13,261  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 50- Using Browser : Chrome
+2018-07-05 11:21:17,847  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 126- url to load : http://adjiva.com/qa-test/
+2018-07-05 11:21:19,210  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 51- Registration page loaded
+2018-07-05 11:21:19,211  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 85- RegistrationPageConfig.xml
+2018-07-05 11:21:19,214  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testRegistrationFormWithInvalidInput 85- ********************************************		Starting Test		********************************************
+2018-07-05 11:21:23,186  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 41- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-05 11:21:23,187  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 50- Using Browser : Chrome
+2018-07-05 11:21:27,788  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 126- url to load : http://adjiva.com/qa-test/
+2018-07-05 11:21:29,120  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 51- Registration page loaded
+2018-07-05 11:21:29,120  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 85- RegistrationPageConfig.xml
+2018-07-05 11:21:31,949  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 41- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-05 11:21:31,950  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 50- Using Browser : Chrome
+2018-07-05 11:21:36,630  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 126- url to load : http://adjiva.com/qa-test/
+2018-07-05 11:21:38,264  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 51- Registration page loaded
+2018-07-05 11:21:38,264  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 85- RegistrationPageConfig.xml

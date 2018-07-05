@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Registration Form Test" duration-ms="111582" started-at="2018-07-05T05:49:49Z" finished-at="2018-07-05T05:51:41Z">
+    <groups>
+    </groups>
+    <test name="Registration Form" duration-ms="111582" started-at="2018-07-05T05:49:49Z" finished-at="2018-07-05T05:51:41Z">
+      <class name="com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="initialize" is-config="true" duration-ms="8972" started-at="2018-07-05T11:19:49Z" finished-at="2018-07-05T11:19:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testPageRegistration(java.util.Map)[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="testPageRegistration" duration-ms="3831" started-at="2018-07-05T11:19:58Z" data-provider="CommonCreateDelete" finished-at="2018-07-05T11:20:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{firstname=demofirstname, passwd=test1234, confirmpasswd=test1234, department=Sales, email=test@123.com, lastname=demolastname, username=firstuser, contactno=9876543210}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageRegistration -->
+        <test-method status="PASS" signature="kill()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="kill" is-config="true" duration-ms="2703" started-at="2018-07-05T11:20:02Z" finished-at="2018-07-05T11:20:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kill -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="initialize" is-config="true" duration-ms="6055" started-at="2018-07-05T11:20:05Z" finished-at="2018-07-05T11:20:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testPageRegistration(java.util.Map)[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="testPageRegistration" duration-ms="3546" started-at="2018-07-05T11:20:11Z" data-provider="CommonCreateDelete" finished-at="2018-07-05T11:20:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{firstname=fn, passwd=test1234, confirmpasswd=test1234, department=Marketing, email=test@123.com, lastname=ln, username=firstuser, contactno=9876512345}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageRegistration -->
+        <test-method status="PASS" signature="kill()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="kill" is-config="true" duration-ms="2733" started-at="2018-07-05T11:20:14Z" finished-at="2018-07-05T11:20:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kill -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="initialize" is-config="true" duration-ms="11638" started-at="2018-07-05T11:20:17Z" finished-at="2018-07-05T11:20:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testPageRegistration(java.util.Map)[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="testPageRegistration" duration-ms="3545" started-at="2018-07-05T11:20:29Z" data-provider="CommonCreateDelete" finished-at="2018-07-05T11:20:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{firstname=demofirstname, passwd=test1234, confirmpasswd=test1234, email=test@123.com, lastname=demolastname, username=firstuser}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageRegistration -->
+        <test-method status="PASS" signature="kill()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="kill" is-config="true" duration-ms="2663" started-at="2018-07-05T11:20:32Z" finished-at="2018-07-05T11:20:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kill -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="initialize" is-config="true" duration-ms="6035" started-at="2018-07-05T11:20:35Z" finished-at="2018-07-05T11:20:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testRegistrationFormWithInvalidInput(java.util.Map)[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="testRegistrationFormWithInvalidInput" duration-ms="516" started-at="2018-07-05T11:20:41Z" data-provider="CommonCreateDelete" finished-at="2018-07-05T11:20:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{passwd=password, lastname=last}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistrationFormWithInvalidInput -->
+        <test-method status="PASS" signature="kill()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="kill" is-config="true" duration-ms="2730" started-at="2018-07-05T11:20:42Z" finished-at="2018-07-05T11:20:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kill -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="initialize" is-config="true" duration-ms="6178" started-at="2018-07-05T11:20:44Z" finished-at="2018-07-05T11:20:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testRegistrationFormWithInvalidInput(java.util.Map)[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="testRegistrationFormWithInvalidInput" duration-ms="799" started-at="2018-07-05T11:20:50Z" data-provider="CommonCreateDelete" finished-at="2018-07-05T11:20:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{firstname=&, confirmpasswd=test12, lastname=last, username=usr, contactno=987651234}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistrationFormWithInvalidInput -->
+        <test-method status="PASS" signature="kill()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="kill" is-config="true" duration-ms="2748" started-at="2018-07-05T11:20:51Z" finished-at="2018-07-05T11:20:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kill -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="initialize" is-config="true" duration-ms="5921" started-at="2018-07-05T11:20:54Z" finished-at="2018-07-05T11:21:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testRegistrationFormWithInvalidInput(java.util.Map)[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="testRegistrationFormWithInvalidInput" duration-ms="321" started-at="2018-07-05T11:21:00Z" data-provider="CommonCreateDelete" finished-at="2018-07-05T11:21:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistrationFormWithInvalidInput -->
+        <test-method status="PASS" signature="kill()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="kill" is-config="true" duration-ms="2749" started-at="2018-07-05T11:21:00Z" finished-at="2018-07-05T11:21:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kill -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="initialize" is-config="true" duration-ms="5959" started-at="2018-07-05T11:21:03Z" finished-at="2018-07-05T11:21:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testRegistrationFormWithInvalidInput(java.util.Map)[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="testRegistrationFormWithInvalidInput" duration-ms="1132" started-at="2018-07-05T11:21:09Z" data-provider="CommonCreateDelete" finished-at="2018-07-05T11:21:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{firstname=d, passwd=test123, confirmpasswd=test124, email=test, lastname=L, username=first12, contactno=987654321}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistrationFormWithInvalidInput -->
+        <test-method status="PASS" signature="kill()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="kill" is-config="true" duration-ms="2693" started-at="2018-07-05T11:21:10Z" finished-at="2018-07-05T11:21:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kill -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="initialize" is-config="true" duration-ms="5954" started-at="2018-07-05T11:21:13Z" finished-at="2018-07-05T11:21:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testRegistrationFormWithInvalidInput(java.util.Map)[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="testRegistrationFormWithInvalidInput" duration-ms="1257" started-at="2018-07-05T11:21:19Z" data-provider="CommonCreateDelete" finished-at="2018-07-05T11:21:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{firstname=d, passwd=test123, confirmpasswd=test124, email=test, lastname=L444%#@#$@#$#, username=first12, contactno=9876543214444}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistrationFormWithInvalidInput -->
+        <test-method status="PASS" signature="kill()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="kill" is-config="true" duration-ms="2708" started-at="2018-07-05T11:21:20Z" finished-at="2018-07-05T11:21:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kill -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="initialize" is-config="true" duration-ms="5937" started-at="2018-07-05T11:21:23Z" finished-at="2018-07-05T11:21:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="validateDepartmentType(java.util.Map)[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="validateDepartmentType" duration-ms="124" started-at="2018-07-05T11:21:29Z" data-provider="CommonCreateDelete" finished-at="2018-07-05T11:21:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{department=Select your Department/Office;Engineering;Marketing;Sales;Support}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDepartmentType -->
+        <test-method status="PASS" signature="kill()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="kill" is-config="true" duration-ms="2700" started-at="2018-07-05T11:21:29Z" finished-at="2018-07-05T11:21:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kill -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="initialize" is-config="true" duration-ms="6320" started-at="2018-07-05T11:21:31Z" finished-at="2018-07-05T11:21:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="validateRegistrationForm()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="validateRegistrationForm" duration-ms="290" started-at="2018-07-05T11:21:38Z" finished-at="2018-07-05T11:21:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegistrationForm -->
+        <test-method status="PASS" signature="kill()[pri:0, instance:com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage@4cf777e8]" name="kill" is-config="true" duration-ms="2760" started-at="2018-07-05T11:21:38Z" finished-at="2018-07-05T11:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kill -->
+      </class> <!-- com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage -->
+    </test> <!-- Registration Form -->
+  </suite> <!-- Registration Form Test -->
+</testng-results>

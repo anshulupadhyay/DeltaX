@@ -1,0 +1,27 @@
+#This will contain test data for registration page
+
+#test data with all fields
+registeruser,firstname:demofirstname,lastname:demolastname,department:Sales,username:firstuser,passwd:test1234,confirmpasswd:test1234,email:test@123.com,contactno:9876543210
+
+#test boundary value data
+registeruser,firstname:fn,lastname:ln,department:Marketing,username:firstuser,passwd:test1234,confirmpasswd:test1234,email:test@123.com,contactno:9876512345
+
+#test data with only mandatory fields
+registeruser,firstname:demofirstname,lastname:demolastname,username:firstuser,passwd:test1234,confirmpasswd:test1234,email:test@123.com
+
+#test data with missing mandatory fields
+invalidmandatoryparams,lastname:last,passwd:password
+invalidmandatoryparams,firstname:&,lastname:last,username:usr,confirmpasswd:test12,contactno:987651234
+
+#test to assert error messages when no params passed
+invalidmandatoryparams
+
+#test data for validating error message when length of input fields is less than minimum defined size 
+invalidmandatoryparams,firstname:d,lastname:L,username:first12,passwd:test123,confirmpasswd:test124,email:test,contactno:987654321
+invalidmandatoryparams,firstname:d,lastname:L444%#@#$@#$#,username:first12,passwd:test123,confirmpasswd:test124,email:test,contactno:9876543214444
+
+#test data to validate the type of departments
+departmenttype,department:Select your Department/Office;Engineering;Marketing;Sales;Support
+
+
+ 

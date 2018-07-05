@@ -1,0 +1,180 @@
+2018-07-03 10:11:33,292  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 105- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 10:11:33,294  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 110- url to load : http://adjiva.com/qa-test/
+2018-07-03 10:11:39,837  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 105- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 10:11:39,838  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 110- url to load : http://adjiva.com/qa-test/
+2018-07-03 18:05:09,766  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 105- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 18:05:09,770  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 109- url to load : http://adjiva.com/qa-test/
+2018-07-03 18:05:14,786  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 49- Registration page loaded
+2018-07-03 18:05:14,788  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 85- File not found RegistrationPageConfig.xml at location .//src/main/resources/uielementlocator/
+2018-07-03 18:08:56,276  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 105- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 18:08:56,280  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 109- url to load : http://adjiva.com/qa-test/
+2018-07-03 18:09:01,059  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 49- Registration page loaded
+2018-07-03 18:09:01,060  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 85- File not found RegistrationPageConfig.xml at location .//src/main/resources/uielementlocator/
+2018-07-03 18:10:37,935  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 105- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 18:10:37,938  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 109- url to load : http://adjiva.com/qa-test/
+2018-07-03 18:10:42,621  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 49- Registration page loaded
+2018-07-03 18:10:42,622  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 81- RegistrationPageConfig.xml
+2018-07-03 18:10:42,752  INFO [main] - com.deltax.automation.utils.MainHelper.main 64- First Name
+2018-07-03 18:10:42,769  INFO [main] - com.deltax.automation.utils.MainHelper.main 65- Last Name
+2018-07-03 18:10:42,784  INFO [main] - com.deltax.automation.utils.MainHelper.main 66- Registration Form
+2018-07-03 18:10:42,784  INFO [main] - com.deltax.automation.utils.MainHelper.main 67- test
+2018-07-03 18:51:36,935  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 105- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 18:51:36,939  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 109- url to load : http://adjiva.com/qa-test/
+2018-07-03 18:51:41,740  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 50- Registration page loaded
+2018-07-03 18:51:41,741  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 82- RegistrationPageConfig.xml
+2018-07-03 18:51:41,892  INFO [main] - com.deltax.automation.utils.MainHelper.main 161- First Name
+2018-07-03 18:51:41,914  INFO [main] - com.deltax.automation.utils.MainHelper.main 162- Last Name
+2018-07-03 18:51:41,934  INFO [main] - com.deltax.automation.utils.MainHelper.main 163- Registration Form
+2018-07-03 18:51:41,958  INFO [main] - com.deltax.automation.utils.MainHelper.main 164- Username *
+2018-07-03 18:54:03,648  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 105- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 18:54:03,651  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 109- url to load : http://adjiva.com/qa-test/
+2018-07-03 18:54:09,217  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 50- Registration page loaded
+2018-07-03 18:54:09,219  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 82- RegistrationPageConfig.xml
+2018-07-03 18:54:09,343  INFO [main] - com.deltax.automation.utils.MainHelper.main 161- First Name
+2018-07-03 18:54:09,362  INFO [main] - com.deltax.automation.utils.MainHelper.main 162- Last Name
+2018-07-03 18:54:09,384  INFO [main] - com.deltax.automation.utils.MainHelper.main 163- Registration Form
+2018-07-03 18:54:09,402  INFO [main] - com.deltax.automation.utils.MainHelper.main 164- Username *
+2018-07-03 18:57:03,135  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 105- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 18:57:03,139  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 109- url to load : http://adjiva.com/qa-test/
+2018-07-03 18:57:08,189  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 50- Registration page loaded
+2018-07-03 18:57:08,191  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 82- RegistrationPageConfig.xml
+2018-07-03 18:57:08,309  INFO [main] - com.deltax.automation.utils.MainHelper.main 161- First Name
+2018-07-03 18:57:08,326  INFO [main] - com.deltax.automation.utils.MainHelper.main 162- Last Name
+2018-07-03 18:57:08,346  INFO [main] - com.deltax.automation.utils.MainHelper.main 163- Registration Form
+2018-07-03 18:57:08,362  INFO [main] - com.deltax.automation.utils.MainHelper.main 164- Username *
+2018-07-03 18:57:18,536  INFO [main] - com.deltax.automation.utils.MainHelper.selectFromDropDown 261- test option is not available in dropdown list
+2018-07-03 19:01:28,457  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 105- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 19:01:28,460  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 109- url to load : http://adjiva.com/qa-test/
+2018-07-03 19:01:33,588  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 50- Registration page loaded
+2018-07-03 19:01:33,591  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 82- RegistrationPageConfig.xml
+2018-07-03 19:01:33,711  INFO [main] - com.deltax.automation.utils.MainHelper.main 161- First Name
+2018-07-03 19:01:33,727  INFO [main] - com.deltax.automation.utils.MainHelper.main 162- Last Name
+2018-07-03 19:01:33,743  INFO [main] - com.deltax.automation.utils.MainHelper.main 163- Registration Form
+2018-07-03 19:01:33,757  INFO [main] - com.deltax.automation.utils.MainHelper.main 164- Username *
+2018-07-03 19:01:33,872  INFO [main] - com.deltax.automation.utils.MainHelper.main 168- Department / Office
+2018-07-03 19:01:33,897  INFO [main] - com.deltax.automation.utils.MainHelper.main 169- Select your Department/Office
+Engineering
+Marketing
+Sales
+Support
+2018-07-03 19:01:43,956  INFO [main] - com.deltax.automation.utils.MainHelper.selectFromDropDown 261- test option is not available in dropdown list
+2018-07-03 19:01:44,416  INFO [main] - com.deltax.automation.utils.MainHelper.main 172- Select your Department/Office
+Engineering
+Marketing
+Sales
+Support
+2018-07-03 19:06:16,166  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 105- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 19:06:16,171  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 109- url to load : http://adjiva.com/qa-test/
+2018-07-03 19:06:22,083  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 50- Registration page loaded
+2018-07-03 19:06:22,084  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 82- RegistrationPageConfig.xml
+2018-07-03 19:06:22,201  INFO [main] - com.deltax.automation.utils.MainHelper.main 161- First Name
+2018-07-03 19:06:22,216  INFO [main] - com.deltax.automation.utils.MainHelper.main 162- Last Name
+2018-07-03 19:06:22,233  INFO [main] - com.deltax.automation.utils.MainHelper.main 163- Registration Form
+2018-07-03 19:06:22,249  INFO [main] - com.deltax.automation.utils.MainHelper.main 164- Username *
+2018-07-03 19:06:22,378  INFO [main] - com.deltax.automation.utils.MainHelper.main 168- Department / Office
+2018-07-03 19:06:22,431  INFO [main] - com.deltax.automation.utils.MainHelper.main 169- Select your Department/Office
+2018-07-03 19:06:32,479  INFO [main] - com.deltax.automation.utils.MainHelper.selectFromDropDown 261- test option is not available in dropdown list
+2018-07-03 19:06:32,981  INFO [main] - com.deltax.automation.utils.MainHelper.main 172- Engineering
+2018-07-03 19:31:44,502  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 109- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 19:31:44,505  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 113- url to load : http://adjiva.com/qa-test/
+2018-07-03 19:31:49,166  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 50- Registration page loaded
+2018-07-03 19:31:49,168  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 82- RegistrationPageConfig.xml
+2018-07-03 19:31:49,295  INFO [main] - com.deltax.automation.utils.MainHelper.main 161- First Name
+2018-07-03 19:31:49,312  INFO [main] - com.deltax.automation.utils.MainHelper.main 162- Last Name
+2018-07-03 19:31:49,331  INFO [main] - com.deltax.automation.utils.MainHelper.main 163- Registration Form
+2018-07-03 19:31:49,348  INFO [main] - com.deltax.automation.utils.MainHelper.main 164- Username *
+2018-07-03 19:31:49,474  INFO [main] - com.deltax.automation.utils.MainHelper.main 168- Department / Office
+2018-07-03 19:31:49,521  INFO [main] - com.deltax.automation.utils.MainHelper.main 169- Select your Department/Office
+2018-07-03 19:31:59,583  INFO [main] - com.deltax.automation.utils.MainHelper.selectFromDropDown 261- test option is not available in dropdown list
+2018-07-03 19:32:00,132  INFO [main] - com.deltax.automation.utils.MainHelper.main 172- Engineering
+2018-07-03 19:34:18,192  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 110- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 19:34:18,195  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 114- url to load : http://adjiva.com/qa-test/
+2018-07-03 19:34:22,819  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 50- Registration page loaded
+2018-07-03 19:34:22,821  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 82- RegistrationPageConfig.xml
+2018-07-03 19:34:22,961  INFO [main] - com.deltax.automation.utils.MainHelper.main 161- First Name
+2018-07-03 19:34:22,979  INFO [main] - com.deltax.automation.utils.MainHelper.main 162- Last Name
+2018-07-03 19:34:22,999  INFO [main] - com.deltax.automation.utils.MainHelper.main 163- Registration Form
+2018-07-03 19:34:23,020  INFO [main] - com.deltax.automation.utils.MainHelper.main 164- Username *
+2018-07-03 19:34:23,153  INFO [main] - com.deltax.automation.utils.MainHelper.main 168- Department / Office
+2018-07-03 19:34:23,196  INFO [main] - com.deltax.automation.utils.MainHelper.main 169- Select your Department/Office
+2018-07-03 19:34:33,242  INFO [main] - com.deltax.automation.utils.MainHelper.selectFromDropDown 261- test option is not available in dropdown list
+2018-07-03 19:34:33,811  INFO [main] - com.deltax.automation.utils.MainHelper.main 172- Engineering
+2018-07-03 19:36:31,242  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 41- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 19:36:31,245  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 50- Using Browser : IE
+2018-07-03 19:36:34,974  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 125- url to load : http://adjiva.com/qa-test/
+2018-07-03 19:37:10,595  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 41- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 19:37:10,597  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 50- Using Browser : Edge
+2018-07-03 19:39:45,964  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 41- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 19:39:45,966  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 50- Using Browser : Edge
+2018-07-03 19:39:47,871  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 125- url to load : http://adjiva.com/qa-test/
+2018-07-03 19:39:48,077  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 50- Registration page loaded
+2018-07-03 19:39:48,081  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 82- RegistrationPageConfig.xml
+2018-07-03 19:39:48,216  INFO [main] - com.deltax.automation.utils.MainHelper.main 161- First Name
+2018-07-03 19:39:48,233  INFO [main] - com.deltax.automation.utils.MainHelper.main 162- Last Name
+2018-07-03 19:39:48,240  INFO [main] - com.deltax.automation.utils.MainHelper.main 163- Registration Form
+2018-07-03 19:39:48,249  INFO [main] - com.deltax.automation.utils.MainHelper.main 164- Username *
+2018-07-03 19:39:48,371  INFO [main] - com.deltax.automation.utils.MainHelper.main 168- Department / Office
+2018-07-03 19:39:48,393  INFO [main] - com.deltax.automation.utils.MainHelper.main 169- Select your Department/Office
+2018-07-03 19:39:53,556  INFO [main] - com.deltax.automation.utils.MainHelper.selectFromDropDown 261- test option is not available in dropdown list
+2018-07-03 19:39:53,563  INFO [main] - com.deltax.automation.utils.MainHelper.getElement 170- Unknown error (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'IND-L-UANSHUL', ip: '164.99.209.188', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptSslCerts: true, browserName: MicrosoftEdge, browserVersion: 25.10586.672.0, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10, takesElementScreenshot: true, takesScreenshot: true}
+Session ID: 4E30D41C-1D5F-47DA-8B25-F79105B3A964
+*** Element info: {Using=name, value=department}
+2018-07-03 19:40:02,810  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 41- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 19:40:02,812  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 50- Using Browser : Edge
+2018-07-03 19:40:04,544  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 125- url to load : http://adjiva.com/qa-test/
+2018-07-03 19:40:04,727  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 50- Registration page loaded
+2018-07-03 19:40:04,730  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 82- RegistrationPageConfig.xml
+2018-07-03 19:40:04,857  INFO [main] - com.deltax.automation.utils.MainHelper.main 161- First Name
+2018-07-03 19:40:04,874  INFO [main] - com.deltax.automation.utils.MainHelper.main 162- Last Name
+2018-07-03 19:40:04,880  INFO [main] - com.deltax.automation.utils.MainHelper.main 163- Registration Form
+2018-07-03 19:40:04,888  INFO [main] - com.deltax.automation.utils.MainHelper.main 164- Username *
+2018-07-03 19:40:05,002  INFO [main] - com.deltax.automation.utils.MainHelper.main 168- Department / Office
+2018-07-03 19:40:05,025  INFO [main] - com.deltax.automation.utils.MainHelper.main 169- Select your Department/Office
+2018-07-03 19:40:15,050  INFO [main] - com.deltax.automation.utils.MainHelper.selectFromDropDown 261- test option is not available in dropdown list
+2018-07-03 19:40:15,244  INFO [main] - com.deltax.automation.utils.MainHelper.main 172- Engineering
+2018-07-03 20:20:23,508  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 41- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 20:20:23,511  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 50- Using Browser : Edge
+2018-07-03 20:20:25,325  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 126- url to load : http://adjiva.com/qa-test/
+2018-07-03 20:20:25,512  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 50- Registration page loaded
+2018-07-03 20:20:25,516  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 82- RegistrationPageConfig.xml
+2018-07-03 20:22:45,155  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 41- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 20:22:45,157  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 50- Using Browser : Edge
+2018-07-03 20:22:46,792  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 126- url to load : http://adjiva.com/qa-test/
+2018-07-03 20:22:46,975  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 50- Registration page loaded
+2018-07-03 20:22:46,980  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 82- RegistrationPageConfig.xml
+2018-07-03 20:22:47,128  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testPageRegistration 35- Starting Test
+2018-07-03 20:22:47,994  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testPageRegistration 35- Starting Test
+2018-07-03 20:22:48,250  INFO [main] - com.deltax.automation.utils.MainHelper.selectFromDropDown 261- null option is not available in dropdown list
+2018-07-03 20:23:13,418  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 41- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 20:23:13,420  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 50- Using Browser : Edge
+2018-07-03 20:23:20,833  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 126- url to load : http://adjiva.com/qa-test/
+2018-07-03 20:23:21,003  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 50- Registration page loaded
+2018-07-03 20:23:21,008  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 82- RegistrationPageConfig.xml
+2018-07-03 20:23:21,152  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testPageRegistration 35- Starting Test
+2018-07-03 20:23:22,000  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testPageRegistration 35- Starting Test
+2018-07-03 20:23:22,249  INFO [main] - com.deltax.automation.utils.MainHelper.selectFromDropDown 261- null option is not available in dropdown list
+2018-07-03 20:26:07,696  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 41- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 20:26:07,699  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 50- Using Browser : Edge
+2018-07-03 20:26:09,354  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 126- url to load : http://adjiva.com/qa-test/
+2018-07-03 20:26:09,538  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 50- Registration page loaded
+2018-07-03 20:26:09,543  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 82- RegistrationPageConfig.xml
+2018-07-03 20:26:09,681  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testPageRegistration 35- Starting Test
+2018-07-03 20:26:10,541  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testPageRegistration 48- First Name
+2018-07-03 20:26:10,545  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testPageRegistration 35- Starting Test
+2018-07-03 20:26:10,791  INFO [main] - com.deltax.automation.utils.MainHelper.selectFromDropDown 261- null option is not available in dropdown list
+2018-07-03 20:27:54,662  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 41- Loading configuration file \src\main\resources\com\deltax\automation\uielementlocators\properties\configuration.properties
+2018-07-03 20:27:54,665  INFO [main] - com.deltax.automation.utils.LoadDriver.<init> 50- Using Browser : Edge
+2018-07-03 20:27:56,394  INFO [main] - com.deltax.automation.utils.LoadDriver.getBaseURL 126- url to load : http://adjiva.com/qa-test/
+2018-07-03 20:27:56,568  INFO [main] - com.deltax.automation.utils.MainHelper.<init> 50- Registration page loaded
+2018-07-03 20:27:56,573  INFO [main] - com.deltax.automation.utils.MainHelper.loadConfigFile 82- RegistrationPageConfig.xml
+2018-07-03 20:27:56,715  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testPageRegistration 35- Starting Test
+2018-07-03 20:27:57,619  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testPageRegistration 48- First Name
+2018-07-03 20:27:57,623  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testPageRegistration 35- Starting Test
+2018-07-03 20:27:58,334  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testPageRegistration 48- First Name
+2018-07-03 20:27:58,338  INFO [main] - com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage.testPageRegistration 35- Starting Test
+2018-07-03 20:27:58,580  INFO [main] - com.deltax.automation.utils.MainHelper.selectFromDropDown 261- null option is not available in dropdown list

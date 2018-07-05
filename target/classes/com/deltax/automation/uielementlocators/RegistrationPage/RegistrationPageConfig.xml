@@ -1,0 +1,50 @@
+<RegistrationPage>
+	<elements>
+	
+		<formname findby='xpath'>//*[@id='contact_form']/fieldset/legend/center/h2/b</formname>
+		
+		<firstname findby='xpath'>//*[@id='contact_form']/fieldset/div[1]/label</firstname>
+		<firstnameinputbox findby='name'>first_name</firstnameinputbox>
+		<firstnameemptyerror findby='xpath'>//*[@data-bv-validator-for="first_name"][@data-bv-validator="notEmpty"]</firstnameemptyerror>
+		<firstnamelengtherror findby='xpath'>//*[@data-bv-validator-for="first_name"][@data-bv-validator="stringLength"]</firstnamelengtherror>
+		<firstnamevalue findby='xpath'>//*[@id="contact_form"]/fieldset/div[1]/div</firstnamevalue>
+		
+		
+		<lastname findby='xpath'>//*[@id='contact_form']/fieldset/div[2]/label</lastname>
+		<lastnameinputbox findby='name'>last_name</lastnameinputbox>
+		<lastnameemptyerror findby='xpath'>//*[@data-bv-validator-for="last_name"][@data-bv-validator="notEmpty"]</lastnameemptyerror>
+		<lastnamelengtherror findby='xpath'>//*[@data-bv-validator-for="last_name"][@data-bv-validator="stringLength"]</lastnamelengtherror>
+		
+		
+		<department findby='xpath'>//*[@id='contact_form']/fieldset/div[3]/label</department>
+		<departmentselectoption findby='name'>department</departmentselectoption>
+		
+		<username findby='xpath'>//*[@id='contact_form']/fieldset/div[4]/label</username>
+		<usernameinputbox findby='name'>user_name</usernameinputbox>
+		<usernameemptyerror findby='xpath'>//*[@data-bv-validator-for="user_name"][@data-bv-validator="notEmpty"]</usernameemptyerror>
+		<usernamelengtherror findby='xpath'>//*[@data-bv-validator-for="user_name"][@data-bv-validator="stringLength"]</usernamelengtherror>	
+			
+		<password findby='xpath'>//*[@id='contact_form']/fieldset/div[5]/label</password>
+		<passwordinputbox findby='name'>user_password</passwordinputbox>
+		<passwordemptyerror findby='xpath'>//*[@data-bv-validator-for="user_password"][@data-bv-validator="notEmpty"]</passwordemptyerror>
+		<passwordlengtherror findby='xpath'>//*[@data-bv-validator-for="user_password"][@data-bv-validator="stringLength"]</passwordlengtherror>	
+		
+		<confirmpassword findby='xpath'>//*[@id='contact_form']/fieldset/div[6]/label</confirmpassword>
+		<confirmpasswordinputbox findby='name'>confirm_password</confirmpasswordinputbox>
+		<confirmpasswordemptyerror findby='xpath'>//*[@data-bv-validator-for="confirm_password"][@data-bv-validator="notEmpty"]</confirmpasswordemptyerror>
+		<confirmpasswordlengtherror findby='xpath'>//*[@data-bv-validator-for="confirm_password"][@data-bv-validator="stringLength"]</confirmpasswordlengtherror>
+		
+		<email findby='xpath'>//*[@id='contact_form']/fieldset/div[7]/label</email>
+		<emailinputbox findby='name'>email</emailinputbox>
+		<emailemptyerror findby='xpath'>//*[@data-bv-validator-for="email"][@data-bv-validator="notEmpty"]</emailemptyerror>
+		<emaillengtherror findby='xpath'>//*[@data-bv-validator-for="email"][@data-bv-validator="stringLength"]</emaillengtherror>
+		
+		<contactno findby='xpath'>//*[@id='contact_form']/fieldset/div[8]/label</contactno>
+		<contactnoinputbox findby='name'>contact_no</contactnoinputbox>
+		<contactlengtherror findby='xpath'>//*[@data-bv-validator-for="contact_no"][@data-bv-validator="stringLength"]</contactlengtherror>
+		
+		<submitbutton findby='css'>.btn</submitbutton>
+		
+		<successmessage findby='xpath'>//*[@id="contact_form"]</successmessage>
+	</elements>
+</RegistrationPage>

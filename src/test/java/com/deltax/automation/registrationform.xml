@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<suite name="Registration Form Test" junit="false">
+
+	<test name="Registration Form" preserve-order="true">
+    	<classes>
+    		<class name="com.deltax.automation.uitest.RegistrationPage.TestRegistrationPage"/>
+    	</classes>
+    </test>
+ 
+</suite>
